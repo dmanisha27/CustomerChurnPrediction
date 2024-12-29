@@ -36,7 +36,7 @@ The dataset contains historical customer records, typically sourced from subscri
 - **Subscription Details**: Contract type, tenure, billing method.  
 - **Target Variable**: `Churn` (binary - 1 for churn, 0 for retention).  
 
-A sample dataset can be found on **[Kaggle](https://www.kaggle.com)**.  
+A sample dataset can be found on **[Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)**.  
 
 ---
 
